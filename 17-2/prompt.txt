@@ -1,0 +1,6 @@
+⚫ There are several use cases that you may be
+surprised that I didn’t mention when
+discussing deducing this
+⚫ Propagating accept() to all subclasses
+⚫ Propagating clone() to all subclasses
+⚫ Why doesn’t deducing this help with those?

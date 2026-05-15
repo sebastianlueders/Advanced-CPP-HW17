@@ -1,0 +1,1 @@
+Why use static_cast for downcasting in CRTP instead of the usual dynamic_cast?

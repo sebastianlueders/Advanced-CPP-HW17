@@ -1,0 +1,9 @@
+⚫ Do whatever is needed to allow the following
+class to be used as a key in an unordered_map
+⚫ struct point {
+string space; int x; int y; int z;
+};
+⚫ For extra credit, use C++26 reflection to
+generate the hash function
+⚫ You may use AI for the extra credit part but
+not the regular credit part

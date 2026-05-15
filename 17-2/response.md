@@ -1,0 +1,1 @@
+`deducing this` helps write member functions once for cv/ref qualifiers, but it does not automatically generate or override virtual functions across a class hierarchy. `accept()` and `clone()` still need per-derived behavior (and often exact return types), so each subclass must provide its own implementation.

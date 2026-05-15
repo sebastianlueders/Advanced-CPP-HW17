@@ -1,0 +1,1 @@
+In CRTP, the base class already knows the exact derived type at compile time, so `static_cast` is safe and has no runtime cost. `dynamic_cast` needs runtime type information and polymorphism, which is unnecessary overhead here.
